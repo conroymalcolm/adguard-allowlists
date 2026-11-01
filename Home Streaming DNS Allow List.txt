@@ -41,3 +41,82 @@ g.live.com
 ads-a-darwin.hulustream.com
 geo.nbcsports.com
 sw88.espn.com
+! --- YouTube & YouTube TV ---
+@@||googlevideo.com^$important
+@@||youtube.com^$important
+@@||ytimg.com^$important
+@@||ggpht.com^$important
+@@||youtube-nocookie.com^$important
+
+! --- Disney+ & Star+ ---
+@@||disneyplus.com^$important
+@@||disney.playback.edge.bamgrid.com^$important
+@@||bamgrid.com^$important
+@@||cdn.registerdisney.go.com^$important
+
+! --- Hulu ---
+@@||hulu.com^$important
+@@||hulustream.com^$important
+@@||huluim.com^$important
+
+! --- Amazon Prime Video ---
+@@||amazonvideo.com^$important
+@@||primevideo.com^$important
+@@||aiv-cdn.net^$important
+@@||pv-cdn.net^$important
+@@||atv-ps.amazon.com^$important
+
+! --- Max (HBO) ---
+@@||max.com^$important
+@@||hbo.com^$important
+@@||hbomax.com^$important
+@@||hbonow.com^$important
+
+! --- Peacock ---
+@@||peacocktv.com^$important
+@@||peacock.com^$important
+
+! --- Paramount+ ---
+@@||paramountplus.com^$important
+@@||cbsaavideo.com^$important
+@@||cbsi.com^$important
+@@||netflix.com^
+@@||nflxvideo.net^
+@@||nflximg.net^
+
+@@||youtube.com^
+@@||googlevideo.com^
+@@||ytimg.com^
+
+@@||disneyplus.com^
+@@||bamgrid.com^
+
+@@||hulu.com^
+@@||hulustream.com^
+
+@@||paramountplus.com^
+
+@@||peacocktv.com^
+@@||nbcuott.com^
+
+@@||max.com^
+@@||hbomaxcdn.com^
+
+@@||primevideo.com^
+@@||amazonvideo.com^
+
+@@||tv.apple.com^
+@@||apple.com^
+
+@@||roku.com^
+
+@@||espn.com^
+@@||espncdn.com^
+
+@@||nbcsports.com^
+
+@@||tubitv.com^
+
+@@||pluto.tv^
+
+@@||vix.com^
