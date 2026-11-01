@@ -90,15 +90,3 @@ Paramount+
 @@||events.brightline.tv^$important
 @@||pubads.g.doubleclick.net^$important
 @@||conviva.com^$important
-@@||ceres.iad-03.braze.com^$important
-@@||combine.urbanairship.com^$important
-@@||pagead2.googlesyndication.com^$important
-@@||iad-*.braze.com^$important
-@@||dpm.demdex.net^$important
-@@||telemetry.canva.com^$important
-@@||gnar.grammarly.com^$important
-@@||f-log-mobile.grammarly.io^$important
-@@||int.vaicore.site^$important
-@@||mobile-collector.newrelic.com^$important
-@@||minerva.devices.a2z.com^$important
-@@||femetrics.grammarly.io^$important
