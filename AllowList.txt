@@ -41,6 +41,14 @@ g.live.com
 ads-a-darwin.hulustream.com
 geo.nbcsports.com
 sw88.espn.com
+
+Paramount+
+tags.tiqcdn.com
+paramountplus.com.data.adobedc.net
+cbsinteractive.data.adobedc.net
+cdn.cookielaw.org
+conduit.redfast.com
+
 ! --- YouTube & YouTube TV ---
 @@||googlevideo.com^$important
 @@||youtube.com^$important
