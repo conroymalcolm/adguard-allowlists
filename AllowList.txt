@@ -84,3 +84,20 @@ tags.tiqcdn.com
 @@||pluto.tv^
 
 @@||vix.com^
+
+Paramount+
+@@||cdn-media.brightline.tv^$important
+@@||events.brightline.tv^$important
+@@||ceres.iad-03.braze.com^$important
+@@||combine.urbanairship.com^$important
+@@||pubads.g.doubleclick.net^$important
+@@||pagead2.googlesyndication.com^$important
+@@||conviva.com^$important
+@@||iad-*.braze.com^$important
+@@||dpm.demdex.net^$important
+@@||telemetry.canva.com^$important
+@@||gnar.grammarly.com^$important
+@@||f-log-mobile.grammarly.io^$important
+@@||int.vaicore.site^$important
+@@||mobile-collector.newrelic.com^$important
+
